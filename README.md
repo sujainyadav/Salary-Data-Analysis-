@@ -1,4 +1,4 @@
-# 💼 Salary-Data-Analysis
+# 💼 Salary-Data-Analysis-Prediction
 
 ## 📌 Project Overview
 This project analyzes salary data of 22,000+ job records to identify key factors influencing salary such as job role, location, company rating, and employment type. It includes end-to-end EDA, data cleaning, business question analysis, and advanced future scope modules covering machine learning, time-series analysis, and geo-visualisation.
